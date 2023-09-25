@@ -4,7 +4,8 @@
 ![Javascript](https://img.shields.io/badge/-Javascrpt-black?style=flat-square&logo=javascript)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-<!-- ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) -->
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 
 I started my journey in development in mid 2022, And since I'm progressing rapidly learning a variety of topics in software engineering (mostly in web development).
 
